@@ -6,7 +6,7 @@
 <em>I am a 2nd year undergrad from <a href="https://www.soa.ac.in/">Siksha 'O' Anusandhan University</a> pursuing B.Tech in Computer Science. I love experimenting with new technologies and building small projects.</em>
 </p>
 
-![](https://komarev.com/ghpvc/?username=belikesayantan&color=blue&?style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=belikesayantan&color=blue&?style=flat-square&label=Visitors)
 
 ## <strong>About me</strong>
 
