@@ -1,23 +1,6 @@
-<style>
-    body {
-        background: rgb(89,177,242);
-background: linear-gradient(0deg, rgba(89,177,242,1) 0%, rgba(232,232,223,0.8743872549019608) 36%, rgba(0,0,0,0.7707457983193278) 100%);
-    }
+<h1 align="center"><strong>Hey 👋, I'm Sayantan!</strong></h1>
 
-    .box {
-
-    }
-
-    h1 {
-        font-color: black;
-        font-size: 30px;
-    }
-</style>
-
-<h1 align="center"><strong>Hey 👋, I'm Sayantan!</strong>
-</h1>
-
-<img align="right" width="300" height="200" src="https://tenor.com/view/bruce-almighty-keyboard-warrior-comedy-jim-carrey-angry-gif-3393582" title="Confused Coder" alt="GIF" />
+<img align="right" title="Me ! Happy Coder" width="300" height="200" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
 <p>
 <em>I am a 2nd year undergrad from <a href="https://www.soa.ac.in/">Siksha 'O' Anusandhan University</a> pursuing B.Tech in Computer Science. I love experimenting with new technologies and building small projects.</em>
