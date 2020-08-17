@@ -1,19 +1,18 @@
 <h1 align="center"><strong>Hey 👋, I'm Sayantan!</strong></h1>
 
-<img align="right" title="Me ! Happy Coder" width="300" height="200" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
+<img align="right" title="Happy Coder" width="300" height="200" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
 <p>
 <em>I am a 2nd year undergrad from <a href="https://www.soa.ac.in/">Siksha 'O' Anusandhan University</a> pursuing B.Tech in Computer Science. I love experimenting with new technologies and building small projects.</em>
 </p>
 
-![](https://komarev.com/ghpvc/?username=belikesayantan&color=blue&?style=flat-square&label=Visitors)
+![](https://komarev.com/ghpvc/?username=belikesayantan&color=blue&?style=flat-square&label=Profile+Views)
 
 ## <strong>About me</strong>
 
 - I'm currently learning AI, Machine Learning, Deep Learning in Python
-- I'm currently following the <a href="https://www.100daysofcode.com/"><strong>#100daysofcode</strong></a> challenge. You can find my progress [here](https://github.com/belikesayantan/problem-solving)
-- I love playing online multiplayer games like <a href="https://store.steampowered.com/app/578080/PLAYERUNKNOWNS_BATTLEGROUNDS/">PUBG</a> and <a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/">Counter-Strike</a>
-- I aspire to become an accomplished Golang developer and Data Scientist. 
+- I'm currently following the <a href="https://www.100daysofcode.com/"><strong>#100daysofcode</strong></a> challenge. You can find my progress [here](https://github.com/belikesayantan/daily-problem-solving)
+- I love playing online games and watching netflix during my free time. 
 
 ## <strong>Languages & Tools</strong>
 
@@ -39,39 +38,47 @@
   <img alt="Tensorflow" src="http://img.shields.io/badge/Tensorflow-B33A0B?style=for-the-badge&logoColor=white&logo=tensorflow">
   <img alt="PyTorch" src="http://img.shields.io/badge/Pytorch-9C1B08?style=for-the-badge&logoColor=white&logo=pytorch">
   <img alt="Keras" src="http://img.shields.io/badge/Keras-F51120?style=for-the-badge&logoColor=white&logo=keras">
+  <br>
+  <img alt="Ubuntu" src="http://img.shields.io/badge/Ubuntu%2020.04-F06B18?style=for-the-badge&logoColor=white&logo=ubuntu">
+  <img alt="Vscode" src="http://img.shields.io/badge/VSCode-4E0BA6?style=for-the-badge&logoColor=white&logo=visual-studio-code">
+  <br>
+  <br>
+  <img title="Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikesayantan&layout=compact&hide=jupyter+notebook&hide_border=true&hide_title=true">
+
 </p>
+
 
 
 
 ## <strong>My Stats</strong>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=belikesayantan&hide=stars&include_all_commits=true&show_icons=true)
+![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=belikesayantan&hide=stars&include_all_commits=true&count_private=true&show_icons=true&show_owner=true&theme=graywhite)
 
 ---
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+  <h2 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2>
 
 <a href="https://twitter.com/belike_sayantan">
-  <img align="center" title="Sayantan Paul | Twitter" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" title="Sayantan Paul | Twitter" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sayantan-paul-a0570a182/">
-  <img align="center" title="Sayantan Paul | Linkedin" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" title="Sayantan Paul | Linkedin" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/belikesayantan">
-  <img align="center" title="Sayantan Paul | Telegram" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="center" title="Sayantan Paul | Telegram" alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/belike_sayantan/">
-  <img align="center" title="Sayantan Paul | Instagram" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" title="Sayantan Paul | Instagram" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/belikesayantan12">
-  <img align="center" title="Sayantan Paul | Hackerrank" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" title="Sayantan Paul | Hackerrank" alt="Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://leetcode.com//">
-  <img align="center" title="Sayantan Paul | Leetcode" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="https://leetcode.com/sayantanpaul/">
+  <img align="center" title="Sayantan Paul | Leetcode" alt="Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.codechef.com/">
-  <img align="center" title="Sayantan Paul | Codechef" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="http://www.hackerearth.com/@sayantan151">
+  <img align="center" title="Sayantan Paul | Hackerearth" alt=" Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
 </a> 
 </div>
 
