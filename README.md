@@ -12,7 +12,7 @@
 
 - I'm currently learning AI, Machine Learning, Deep Learning in Python
 - I'm currently following the <a href="https://www.100daysofcode.com/"><strong>#100daysofcode</strong></a> challenge. You can find my progress [here](https://github.com/belikesayantan/daily-problem-solving)
-- I love playing online games and watching netflix during my free time. 
+- I aspire to become a accomplished Software Engineer in the future. 
 
 ## <strong>Languages & Tools</strong>
 
@@ -44,17 +44,11 @@
   <br>
   <br>
   <img title="Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikesayantan&layout=compact&hide=jupyter+notebook&hide_border=true&hide_title=true">
-
 </p>
-
-
-
 
 ## <strong>My Stats</strong>
 
-![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=belikesayantan&hide=stars&include_all_commits=true&count_private=true&show_icons=true&show_owner=true&theme=graywhite)
-
----
+![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=belikesayantan&hide=stars&include_all_commits=true&count_private=true&show_icons=true&show_owner=true&theme=graywhite&hide_border=true)
 
 <div align="center">
   <h2 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2>
@@ -81,4 +75,3 @@
   <img align="center" title="Sayantan Paul | Hackerearth" alt=" Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
 </a> 
 </div>
-
