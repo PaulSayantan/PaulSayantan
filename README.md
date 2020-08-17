@@ -12,7 +12,7 @@
 
 - I'm currently learning AI, Machine Learning, Deep Learning in Python
 - I'm currently following the <a href="https://www.100daysofcode.com/"><strong>#100daysofcode</strong></a> challenge. You can find my progress [here](https://github.com/belikesayantan/daily-problem-solving)
-- I aspire to become a accomplished Software Engineer in the future. 
+- I aspire to become an accomplished Software Engineer in the future. 
 
 ## <strong>Languages & Tools</strong>
 
@@ -30,7 +30,6 @@
   <img alt="React" src="http://img.shields.io/badge/React-012461?style=for-the-badge&logo=react">
   <img alt="Git" src="http://img.shields.io/badge/git-940D19?style=for-the-badge&logo=git">
   <img alt="Docker" src="http://img.shields.io/badge/docker-083E80?style=for-the-badge&logo=docker">
-  <img alt="MYSQL" src="http://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql">
   <img alt="MONGODB" src="http://img.shields.io/badge/monogodb-064F20?style=for-the-badge&logo=mongodb">
   <br>
   <img alt="Jupyter" src="http://img.shields.io/badge/jupyter-E35C3D?style=for-the-badge&logoColor=white&logo=jupyter">
@@ -43,15 +42,15 @@
   <img alt="Vscode" src="http://img.shields.io/badge/VSCode-4E0BA6?style=for-the-badge&logoColor=white&logo=visual-studio-code">
   <br>
   <br>
-  <img title="Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikesayantan&layout=compact&hide=jupyter+notebook&hide_border=true&hide_title=true">
+  <img title="Sayantan's languages usage stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikesayantan&layout=compact&hide=jupyter+notebook&hide_border=true&hide_title=true">
 </p>
 
 ## <strong>My Stats</strong>
 
-![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=belikesayantan&hide=stars&include_all_commits=true&count_private=true&show_icons=true&show_owner=true&theme=graywhite&hide_border=true)
+<img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://github-readme-stats.vercel.app/api?username=belikesayantan&hide=stars&include_all_commits=true&count_private=true&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
 
 <div align="center">
-  <h2 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2>
+  <h2 align="center">Connect with me<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2>
 
 <a href="https://twitter.com/belike_sayantan">
   <img align="center" title="Sayantan Paul | Twitter" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
