@@ -1,4 +1,12 @@
-<h1 align="center"><strong>Hey 👋, I'm Sayantan!</strong></h1>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Mono:wght@500&family=Rock+Salt&display=swap" rel="stylesheet">
+
+<div align="center">
+<img align="center" alt="octocat" title="Sayantan Paul | Indian Octocat" width=600 height=600 src="./images/octocat.png"/>
+<br>
+<br>
+</div>
+
+<h1 align="center" style="font-size: 50px; font-family: 'Rock Salt', cursive;">Hey 👋, I'm Sayantan !</h1>
 
 <img align="right" title="Happy Coder" width="300" height="200" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
@@ -8,13 +16,13 @@
 
 ![](https://komarev.com/ghpvc/?username=belikesayantan&color=blue&?style=flat-square&label=Profile+Views)
 
-## <strong>About me</strong>
+<h2 style="font-size: 20px; font-family: 'Fira Mono', monospace;">About me</h2>
 
 - I'm currently learning AI, Machine Learning, Deep Learning in Python
 - I'm currently following the <a href="https://www.100daysofcode.com/"><strong>#100daysofcode</strong></a> challenge. You can find my progress [here](https://github.com/belikesayantan/daily-problem-solving)
 - I aspire to become an accomplished Software Engineer in the future. 
 
-## <strong>Languages & Tools</strong>
+<h2 style="font-size: 20px; font-family: 'Fira Mono', monospace;">Languages & Tools</h2>
 
 <p align="center">
   <img alt="python "src="https://img.shields.io/badge/python-003366?style=for-the-badge&logo=python&link=https://python.org">
@@ -45,7 +53,7 @@
   <img title="Sayantan's languages usage stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikesayantan&layout=compact&hide=jupyter+notebook&hide_border=true&hide_title=true">
 </p>
 
-## <strong>My Stats</strong>
+<h2 style="font-size: 20px; font-family: 'Fira Mono', monospace;">My Stats</h2>
 <br>
 <br>
 <a href="https://wakatime.com"><img style="border-radius: 5px;" src="https://wakatime.com/share/@belikesayantan/661263ec-5977-4925-8290-200bf436b5e9.png" width=500 height=400/></a>
