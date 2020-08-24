@@ -54,10 +54,12 @@
 <h2 style="font-size: 30px;">My Stats</h2>
 <br>
 <br>
+<!--
 <a href="https://wakatime.com"><img style="border-radius: 5px;" src="https://wakatime.com/share/@belikesayantan/661263ec-5977-4925-8290-200bf436b5e9.png" width=500 height=400/></a>
 <br>
 <br>
 <br>
+-->
 <img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://github-readme-stats.vercel.app/api?username=belikesayantan&hide=stars&include_all_commits=true&count_private=true&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
 
 <div align="center">
