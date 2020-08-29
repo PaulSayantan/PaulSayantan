@@ -46,21 +46,21 @@
   <br>
   <img alt="Ubuntu" src="http://img.shields.io/badge/Ubuntu%2020.04-F06B18?style=for-the-badge&logoColor=white&logo=ubuntu">
   <img alt="Vscode" src="http://img.shields.io/badge/VSCode-4E0BA6?style=for-the-badge&logoColor=white&logo=visual-studio-code">
-  <br>
-  <br>
-  <img title="Sayantan's languages usage stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikesayantan&layout=compact&hide=jupyter+notebook&hide_border=true&hide_title=true">
+  <br><br>
+  <img title="Sayantan's languages usage stats" src="https://sayantan-stats.vercel.app/api/top-langs/?username=belikesayantan&layout=compact&hide=jupyter+notebook&hide_border=true&hide_title=true">
 </p>
 
 <h2 style="font-size: 30px;">My Stats</h2>
 <br>
-<br>
-<!--
 <a href="https://wakatime.com"><img style="border-radius: 5px;" src="https://wakatime.com/share/@belikesayantan/661263ec-5977-4925-8290-200bf436b5e9.png" width=500 height=400/></a>
-<br>
-<br>
-<br>
--->
-<img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://github-readme-stats.vercel.app/api?username=belikesayantan&hide=stars&include_all_commits=true&count_private=true&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
+<br><br><br>
+<img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://sayantan-stats.vercel.app/api?username=belikesayantan&hide=stars&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
+
+<br><br>
+<h2>Current Vibe</h2>
+
+[![Spotify](https://sayantan-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/hd80hcooiv8cnfcg6ymbrsm5z)
+
 
 <div align="center">
   <h2 align="center">Connect with me<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2>
