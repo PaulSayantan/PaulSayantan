@@ -57,10 +57,11 @@
 <img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://sayantan-stats.vercel.app/api?username=belikesayantan&hide=stars&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
 
 <br><br>
-<h2>Current Vibe</h2>
-
-[![Spotify](https://sayantan-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/hd80hcooiv8cnfcg6ymbrsm5z)
-
+<div align="center">
+  
+  [![Spotify](https://sayantan-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/hd80hcooiv8cnfcg6ymbrsm5z)
+  
+</div>
 
 <div align="center">
   <h2 align="center">Connect with me<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2>
