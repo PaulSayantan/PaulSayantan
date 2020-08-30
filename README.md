@@ -52,7 +52,7 @@
 
 <h2>My Stats & Coding Activity</h2>
 <br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@belikesayantan/c50cb56f-b916-455d-bf28-573898e767ab.png" width=450 height=350/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@belikesayantan/c50cb56f-b916-455d-bf28-573898e767ab.png" width=400 height=300/></a>
 <a href="https://wakatime.com"><img align="right" src="https://wakatime.com/share/@belikesayantan/f8ca531a-2112-4d2c-a65a-bdc9391be3f5.png" width=450 height=350/></a>
 <br><br><br>
 <img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://sayantan-stats.vercel.app/api?username=belikesayantan&hide=stars&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
