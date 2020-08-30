@@ -50,10 +50,12 @@
   <img title="Sayantan's languages usage stats" src="https://sayantan-stats.vercel.app/api/top-langs/?username=belikesayantan&layout=compact&hide=jupyter+notebook&hide_border=true&hide_title=true">
 </p>
 
-<h2 style="font-size: 30px;">My Stats</h2>
+<h2 style="font-size: 30px;">My Stats & Activity</h2>
 <br>
 <a href="https://wakatime.com"><img style="border-radius: 5px;" src="https://wakatime.com/share/@belikesayantan/661263ec-5977-4925-8290-200bf436b5e9.png" width=500 height=400/></a>
 <br><br><br>
+<img src="https://github.com/belikesayantan/belikesayantan/blob/master/codeStats.svg" alt="My Coding Activity" title="Sayantan Paul | Language usage stats"/>
+<br><br>
 <img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://sayantan-stats.vercel.app/api?username=belikesayantan&hide=stars&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
 
 <br><br>
