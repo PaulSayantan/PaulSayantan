@@ -9,14 +9,14 @@
 <img align="right" title="Happy Coder" width="300" height="200" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
 <p>
-<em>I am a 2nd year undergrad from <a href="https://www.soa.ac.in/">Siksha 'O' Anusandhan University</a> pursuing B.Tech in Computer Science. I love experimenting with new technologies and building small projects.</em>
+<em>I am a 3rd year undergrad from <a href="https://www.soa.ac.in/">Siksha 'O' Anusandhan University</a> pursuing B.Tech in Computer Science. I love experimenting with new technologies and building small projects.</em>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=belikesayantan&color=blue&?style=flat-square&label=Profile+Views)
 
 <h2>About me</h2>
 
-- I'm currently learning Front-end development
+- I'm currently learning Data Structures and Algorithms
 - I'm currently following the <a href="https://www.100daysofcode.com/"><strong>#100daysofcode</strong></a> challenge. You can find my progress [here](https://github.com/belikesayantan/daily-problem-solving)
 - I aspire to become an accomplished Software Engineer in the future. 
 
