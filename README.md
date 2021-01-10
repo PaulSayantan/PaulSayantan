@@ -20,20 +20,15 @@
 - I'm currently following the <a href="https://www.100daysofcode.com/"><strong>#100daysofcode</strong></a> challenge. You can find my progress [here](https://github.com/belikesayantan/daily-problem-solving)
 - I aspire to become an accomplished Software Engineer in the future. 
 
-<h2>Languages & Tools</h2>
+<h2>Languages & Tools I know</h2>
 
 <p align="center">
   <img alt="python "src="https://img.shields.io/badge/python-003366?style=for-the-badge&logo=python&link=https://python.org">
   <img alt="Golang" src="https://img.shields.io/badge/go-0E7682?style=for-the-badge&logo=go&link=https://golang.org">
   <img alt="Java" src="https://img.shields.io/badge/java-2B2A27?style=for-the-badge&logo=java&link=https://www.oracle.com/java">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-F54D33?style=for-the-badge&logoColor=white&logo=html5">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-6E20F5?style=for-the-badge&logo=css3">
-  <img alt="JAVASCRIPT" src="https://img.shields.io/badge/javascript-D9A600?style=for-the-badge&logoColor=white&logo=javascript">
   <br>
   <img alt="Flask" src="http://img.shields.io/badge/Flask-373838?style=for-the-badge&logo=flask">
   <img alt="Django" src="http://img.shields.io/badge/Django-15381B?style=for-the-badge&logo=Django">
-  <img alt="Bootstrap" src="http://img.shields.io/badge/Bootstrap-40198A?style=for-the-badge&logo=bootstrap">
-  <img alt="React" src="http://img.shields.io/badge/React-012461?style=for-the-badge&logo=react">
   <img alt="Git" src="http://img.shields.io/badge/git-940D19?style=for-the-badge&logo=git">
   <img alt="Docker" src="http://img.shields.io/badge/docker-083E80?style=for-the-badge&logo=docker">
   <img alt="MONGODB" src="http://img.shields.io/badge/monogodb-064F20?style=for-the-badge&logo=mongodb">
