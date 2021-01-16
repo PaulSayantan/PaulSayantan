@@ -1,9 +1,10 @@
+<!--
 <div align="center">
   <img alt="octocat" title="Sayantan Paul | Indian Octocat" width=600 height=600 src="https://github.com/belikesayantan/belikesayantan/blob/master/images/octocat.png"/>
   <br>
   <br>
 </div>
-
+-->
 <h1 align="center">Hey 👋, I'm Sayantan !</h1>
 
 <img align="right" title="Happy Coder" width="300" height="200" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
