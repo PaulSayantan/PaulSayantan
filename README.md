@@ -17,8 +17,7 @@
 
 <h2>About me</h2>
 
-- I'm currently learning Data Structures and Algorithms
-- I'm currently following the <a href="https://www.100daysofcode.com/"><strong>#100daysofcode</strong></a> challenge. You can find my progress [here](https://github.com/belikesayantan/daily-problem-solving)
+- I'm currently learning Image Processing and OpenCV
 - I aspire to become an accomplished Software Engineer in the future. 
 
 <h2>Languages & Tools I know</h2>
