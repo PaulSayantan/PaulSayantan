@@ -17,8 +17,9 @@
 
 <h2>About me</h2>
 
-- I'm currently learning Image Processing and OpenCV
-- I aspire to become an accomplished Software Engineer in the future. 
+- I'm currently learning Dynamic Programming, practising [DSA](https://github.com/belikesayantan/DSA)
+- A hardcore MARVEL fan
+- Currently playing [Assassin's Creed Syndicate](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Syndicate)
 
 <h2>Languages & Tools I know</h2>
 
@@ -31,7 +32,7 @@
   <img alt="Django" src="http://img.shields.io/badge/Django-15381B?style=for-the-badge&logo=Django">
   <img alt="Git" src="http://img.shields.io/badge/git-940D19?style=for-the-badge&logo=git">
   <img alt="Docker" src="http://img.shields.io/badge/docker-083E80?style=for-the-badge&logo=docker">
-  <img alt="MONGODB" src="http://img.shields.io/badge/monogodb-064F20?style=for-the-badge&logo=mongodb">
+  <img alt="MongoDB" src="http://img.shields.io/badge/monogodb-064F20?style=for-the-badge&logo=mongodb">
   <br>
   <img alt="Jupyter" src="http://img.shields.io/badge/jupyter-E35C3D?style=for-the-badge&logoColor=white&logo=jupyter">
   <img alt="Pandas" src="http://img.shields.io/badge/pandas-000738?style=for-the-badge&logoColor=white&logo=pandas">
