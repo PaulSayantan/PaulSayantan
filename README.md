@@ -13,11 +13,11 @@
 <em>I am a 3rd year undergrad from <a href="https://www.soa.ac.in/">Siksha 'O' Anusandhan University</a> pursuing B.Tech in Computer Science. I love experimenting with new technologies and building small projects.</em>
 </p>
 
-![](https://komarev.com/ghpvc/?username=belikesayantan&color=blue&?style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=PaulSayantan&color=blue&?style=flat-square&label=Profile+Views)
 
 <h2>About me</h2>
 
-- I'm currently learning Dynamic Programming, practising [DSA](https://github.com/belikesayantan/DSA)
+- I'm currently learning Dynamic Programming, practising [DSA](https://github.com/PaulSayanatan/DSA)
 - A hardcore MARVEL fan
 - Currently playing [Assassin's Creed Syndicate](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Syndicate)
 
@@ -43,7 +43,7 @@
   <img alt="Ubuntu" src="http://img.shields.io/badge/Ubuntu%2020.04-F06B18?style=for-the-badge&logoColor=white&logo=ubuntu">
   <img alt="Vscode" src="http://img.shields.io/badge/VSCode-4E0BA6?style=for-the-badge&logoColor=white&logo=visual-studio-code">
   <br><br>
-  <img title="Sayantan's languages usage stats" src="https://sayantan-stats.vercel.app/api/top-langs/?username=belikesayantan&layout=compact&hide=jupyter+notebook&hide_border=true&hide_title=true">
+  <img title="Sayantan's languages usage stats" src="https://sayantan-stats.vercel.app/api/top-langs/?username=PaulSayantan&layout=compact&hide=jupyter+notebook&hide_border=true&hide_title=true">
 </p>
 
 <h2>My Stats & Coding Activity</h2>
@@ -53,7 +53,7 @@
 <a href="https://wakatime.com"><img align="right" src="https://wakatime.com/share/@belikesayantan/f8ca531a-2112-4d2c-a65a-bdc9391be3f5.png" width=390 height=290/></a>
 <br><br>
 --><br>
-<img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://sayantan-stats.vercel.app/api?username=belikesayantan&hide=stars&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
+<img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://sayantan-stats.vercel.app/api?username=PaulSayantan&hide=stars&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
 
 <br><br>
 <div align="center">
