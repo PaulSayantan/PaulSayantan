@@ -17,13 +17,14 @@
 
 <h2>About me</h2>
 
-- I'm currently learning Dynamic Programming, practising [DSA](https://github.com/PaulSayanatan/DSA)
+- I'm currently working on a project
 - A hardcore MARVEL fan
-- Currently playing [Assassin's Creed Syndicate](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Syndicate)
+- Currently playing [Call Of Duty Warzone](https://www.callofduty.com/warzone)
 
 <h2>Languages & Tools I know</h2>
 
 <p align="center">
+  <img alt="C++ "src="https://img.shields.io/badge/C++-E32C3D?style=for-the-badge&logo=C++&link=https://isocpp.org">
   <img alt="python "src="https://img.shields.io/badge/python-003366?style=for-the-badge&logo=python&link=https://python.org">
   <img alt="Golang" src="https://img.shields.io/badge/go-0E7682?style=for-the-badge&logo=go&link=https://golang.org">
   <img alt="Java" src="https://img.shields.io/badge/java-2B2A27?style=for-the-badge&logo=java&link=https://www.oracle.com/java">
