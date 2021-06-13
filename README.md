@@ -1,10 +1,9 @@
-<!--
+
 <div align="center">
-  <img alt="octocat" title="Sayantan Paul | Indian Octocat" width=600 height=600 src="https://github.com/belikesayantan/belikesayantan/blob/master/images/octocat.png"/>
+  <img alt="octocat" title="Sayantan Paul | Indian Octocat" width=400 height=400 src="https://github.com/belikesayantan/belikesayantan/blob/master/images/octocat.png"/>
   <br>
   <br>
 </div>
--->
 <h1 align="center">Hey 👋, I'm Sayantan !</h1>
 
 <img align="right" title="Happy Coder" width="300" height="200" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
@@ -48,12 +47,12 @@
 </p>
 
 <h2>My Stats & Coding Activity</h2>
-<!--
+
 <br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@belikesayantan/c50cb56f-b916-455d-bf28-573898e767ab.png" width=390 height=290/></a>
 <a href="https://wakatime.com"><img align="right" src="https://wakatime.com/share/@belikesayantan/f8ca531a-2112-4d2c-a65a-bdc9391be3f5.png" width=390 height=290/></a>
 <br><br>
---><br>
+<br>
 <img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://sayantan-stats.vercel.app/api?username=PaulSayantan&hide=stars&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
 
 <br><br>
