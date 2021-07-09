@@ -7,13 +7,13 @@
 <em>I am a 3rd year undergrad from <a href="https://www.soa.ac.in/">Siksha 'O' Anusandhan University</a> pursuing B.Tech in Computer Science. I love experimenting with new technologies and building small projects.</em>
 </p>
 
-![](https://komarev.com/ghpvc/?username=PaulSayantan&color=blue&?style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=PaulSayantan&color=blue&?style=flat-square&label=Profile+Views+Count)
 
 <h2>About me</h2>
 
-- I'm currently working on a project
+- I'm currently working on a ML project
 - A hardcore MARVEL fan
-- Currently playing [Call Of Duty Warzone](https://www.callofduty.com/warzone)
+- Preparing for campus interviews
 
 <h2>Languages & Tools I know</h2>
 
