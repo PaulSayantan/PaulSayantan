@@ -1,9 +1,4 @@
 
-<div align="center">
-  <img alt="octocat" title="Sayantan Paul | Indian Octocat" width=400 height=400 src="https://github.com/belikesayantan/belikesayantan/blob/master/images/octocat.png"/>
-  <br>
-  <br>
-</div>
 <h1 align="center">Hey 👋, I'm Sayantan !</h1>
 
 <img align="right" title="Happy Coder" width="300" height="200" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
@@ -23,16 +18,12 @@
 <h2>Languages & Tools I know</h2>
 
 <p align="center">
-  <img alt="C++ "src="https://img.shields.io/badge/C++-E32C3D?style=for-the-badge&logo=C++&link=https://isocpp.org">
   <img alt="python "src="https://img.shields.io/badge/python-003366?style=for-the-badge&logo=python&link=https://python.org">
   <img alt="Golang" src="https://img.shields.io/badge/go-0E7682?style=for-the-badge&logo=go&link=https://golang.org">
   <img alt="Java" src="https://img.shields.io/badge/java-2B2A27?style=for-the-badge&logo=java&link=https://www.oracle.com/java">
   <br>
   <img alt="Flask" src="http://img.shields.io/badge/Flask-373838?style=for-the-badge&logo=flask">
-  <img alt="Django" src="http://img.shields.io/badge/Django-15381B?style=for-the-badge&logo=Django">
   <img alt="Git" src="http://img.shields.io/badge/git-940D19?style=for-the-badge&logo=git">
-  <img alt="Docker" src="http://img.shields.io/badge/docker-083E80?style=for-the-badge&logo=docker">
-  <img alt="MongoDB" src="http://img.shields.io/badge/monogodb-064F20?style=for-the-badge&logo=mongodb">
   <br>
   <img alt="Jupyter" src="http://img.shields.io/badge/jupyter-E35C3D?style=for-the-badge&logoColor=white&logo=jupyter">
   <img alt="Pandas" src="http://img.shields.io/badge/pandas-000738?style=for-the-badge&logoColor=white&logo=pandas">
