@@ -40,7 +40,7 @@
 <h2>My Stats & Coding Activity</h2>
 
 <br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@belikesayantan/c50cb56f-b916-455d-bf28-573898e767ab.png" width=390 height=290/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@belikesayantan/18e2cd0f-78fd-407f-a478-05c97c5f93ad.png" width=390 height=290/></a>
 <a href="https://wakatime.com"><img align="right" src="https://wakatime.com/share/@belikesayantan/f8ca531a-2112-4d2c-a65a-bdc9391be3f5.png" width=390 height=290/></a>
 <br><br>
 <br>
