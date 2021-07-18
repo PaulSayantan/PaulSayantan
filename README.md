@@ -40,8 +40,8 @@
 <h2>My Stats & Coding Activity</h2>
 
 <br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@belikesayantan/18e2cd0f-78fd-407f-a478-05c97c5f93ad.png" width=390 height=290/></a>
-<a href="https://wakatime.com"><img align="right" src="https://wakatime.com/share/@belikesayantan/f8ca531a-2112-4d2c-a65a-bdc9391be3f5.png" width=390 height=290/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@belikesayantan/d519ad20-847f-4850-8a35-c38a69c5d92f.png" width=390 height=290/></a>
+<a href="https://wakatime.com"><img align="right" src="https://wakatime.com/share/@belikesayantan/8d2ef353-300c-4aec-a609-2491fda4161b.png" width=390 height=290/></a>
 <br><br>
 <br>
 <img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://sayantan-stats.vercel.app/api?username=PaulSayantan&hide=stars&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
