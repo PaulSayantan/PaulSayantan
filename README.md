@@ -38,43 +38,9 @@
 </p>
 
 <h2>My Stats</h2>
-
 <br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@belikesayantan/d519ad20-847f-4850-8a35-c38a69c5d92f.png" width=390 height=290/></a>
 <a href="https://wakatime.com"><img align="right" src="https://wakatime.com/share/@belikesayantan/8d2ef353-300c-4aec-a609-2491fda4161b.png" width=390 height=290/></a>
 <br><br>
 <br>
 <img align="center" alt="Github Stats" title="Sayantan Paul | Github Stats" src="https://sayantan-stats.vercel.app/api?username=PaulSayantan&hide=stars&show_icons=true&show_owner=true&theme=graywhite&hide_border=true">
-
-<br><br>
-<div align="center">
-  
-  [![Spotify](https://sayantan-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/hd80hcooiv8cnfcg6ymbrsm5z)
-  
-</div>
-
-<div align="center">
-  <h2 align="center">Connect with me<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2>
-
-<a href="https://twitter.com/belike_sayantan">
-  <img align="center" title="Sayantan Paul | Twitter" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sayantan-paul-a0570a182/">
-  <img align="center" title="Sayantan Paul | Linkedin" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/belikesayantan">
-  <img align="center" title="Sayantan Paul | Telegram" alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/belike_sayantan/">
-  <img align="center" title="Sayantan Paul | Instagram" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.hackerrank.com/belikesayantan12">
-  <img align="center" title="Sayantan Paul | Hackerrank" alt="Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://leetcode.com/sayantanpaul/">
-  <img align="center" title="Sayantan Paul | Leetcode" alt="Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="http://www.hackerearth.com/@sayantan151">
-  <img align="center" title="Sayantan Paul | Hackerearth" alt=" Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
-</a> 
-</div>
