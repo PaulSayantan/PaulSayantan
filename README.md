@@ -11,9 +11,9 @@
 
 <h2>About me</h2>
 
-- I'm currently working on a ML project
+- I'm currently studying about Image Processing and OpenCV
 - A hardcore MARVEL fan
-- Preparing for campus interviews
+- Got Placed in Publicis Sapient as Associate Software Developer - 1
 
 <h2>Languages & Tools I know</h2>
 
