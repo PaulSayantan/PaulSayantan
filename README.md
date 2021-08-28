@@ -13,7 +13,7 @@
 
 - I'm currently studying about Image Processing and OpenCV
 - A hardcore MARVEL fan
-- Got Placed in Publicis Sapient as Associate Software Developer - 1
+- Got placed in Publicis Sapient as Associate Software Developer - 1
 
 <h2>Languages & Tools I know</h2>
 
