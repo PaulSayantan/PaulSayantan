@@ -9,12 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=PaulSayantan&color=blue&?style=flat-square&label=Profile+Views+Count)
 
-<h2>About me</h2>
-
-- I'm currently studying about Image Processing and OpenCV
-- A hardcore MARVEL fan
-- Got placed in Publicis Sapient as Associate Software Developer - 1
-
 <h2>Languages & Tools I know</h2>
 
 <p align="center">
