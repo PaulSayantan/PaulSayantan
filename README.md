@@ -3,8 +3,8 @@
 
 <img align="right" title="Happy Coder" width="300" height="200" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
-<p>
-<em>I am a Final year undergrad from <a href="https://www.soa.ac.in/">Siksha 'O' Anusandhan University</a> pursuing B.Tech in Computer Science. I love experimenting with new technologies and building small projects.</em>
+<p align="center">
+<b>I am a Software Engineer at Amazon India</b>
 </p>
 <div align="center">
   <img alt="python" src="https://komarev.com/ghpvc/?username=PaulSayantan&color=blue&?style=flat-square&label=Profile+Views+Count">
